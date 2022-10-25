@@ -2,7 +2,7 @@
 name: AntiCheat False Positive
 about: 反作弊误报提交
 title: "[ACFP]"
-labels: AntiCheat False Positive, 管理
+labels: AntiCheat False Positive, Bug
 assignees: ''
 
 ---
