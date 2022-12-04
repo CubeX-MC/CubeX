@@ -13,7 +13,7 @@ XY-kuailexy (Shioeaxiki)
   ##
 玩家社区
 -
-Official:
+Official:  
 QQ群 - 470579814 [聊天]  
 [Discord](https://discord.com/invite/v5qx938N93) (点击加入) [聊天,支持,Minecraft服务器工具(联动)]  
 Unofficial:  
