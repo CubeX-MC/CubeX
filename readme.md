@@ -1,8 +1,34 @@
-CubeXMC
-=
+ CubeXMC
+ =
 由玩家共同创建和维护的纯净(养老)生存服务器
--  
-服务器官网：https://cubexmc.net  
-服务器ip：play.cubexmc.org(java&基岩)  
-国际线路：global.cubexmc.org:61182  
-discord：https://discord.gg/v5qx938N93
+-
+  CubeX Operator 成员组:
+  angushushu  
+  Tomeggo
+  Akkariin (AkariDream)
+  XY-kuailexy (Shioeaxiki)
+  ~~Siyang~~
+  ~~linzaiua~~
+  ##
+玩家社区
+-
+Official:
+QQ群 - 470579814 [聊天]  
+[Discord](https://discord.com/invite/v5qx938N93) (点击加入) [聊天,支持,Minecraft服务器工具(联动)]  
+<script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
+<script type="text/javascript">
+    discordWidget.init({
+        serverId: '912444789474087003',
+        title: 'CubeX Official',
+        join: false,
+        alphabetical: false,
+        theme: 'dark',
+        hideChannels: [],
+        showAllUsers: true,
+        allUsersDefaultState: true
+    });
+    discordWidget.render();
+</script>
+<div class="discord-widget"></div>
+Unofficial:  
+小酒馆 - 291655355
