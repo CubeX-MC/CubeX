@@ -5,7 +5,7 @@
   CubeX Operator 成员组:  
 angushushu  
 Tomeggo  
-Akkariin (AkariDream)  
+Akkariin (AkariDream)  ![AkariDreamDiscord](https://discord-readme-badge.vercel.app/api?id=788039346284527616)  
 XY-kuailexy (Shioeaxiki)  
 ~~Siyang~~  
 ~~linzaiua~~  
