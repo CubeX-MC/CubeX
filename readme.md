@@ -19,8 +19,8 @@ QQ群 - 470579814 [聊天]
 Unofficial:  
 小酒馆 - 291655355  
   ##
-服务器状态  
+服务器状态(点击直接跳转)  
 -
-[MinecraftList](https://minecraftlist.com/servers/play.cubexmc.org)  
 ![MinecraftListStatus](https://jnq5ocjgw6.execute-api.us-east-1.amazonaws.com/production/https://minecraftlist.com/servers/play.cubexmc.org/banner.svg)  
-[找服玩]https://play.mcmod.cn/sv20185897.html
+[MinecraftList](https://minecraftlist.com/servers/play.cubexmc.org)  
+[找服玩](https://play.mcmod.cn/sv20185897.html)
