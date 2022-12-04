@@ -21,9 +21,9 @@ Unofficial:
   ##
 服务器状态(点击直接跳转)  
 -
-![MinecraftListStatus](https://minecraftlist.com/servers/play.cubexmc.org/banner.jpg)  
- > 15分钟刷新一次 具体请看下方MinecraftList  
+![MinecraftListStatus](https://jnq5ocjgw6.execute-api.us-east-1.amazonaws.com/production/https://minecraftlist.com/servers/play.cubexmc.org/banner.svg)  
+ > 图像很可能已经过时 请不要作为参考 Github会爬图像 然后将其存放在自己的cdn里  
 
-[MinecraftList](https://jnq5ocjgw6.execute-api.us-east-1.amazonaws.com/production/https://minecraftlist.com/servers/play.cubexmc.org/banner.svg)  
+[MinecraftList](https://minecraftlist.com/servers/play.cubexmc.org)  
 [找服玩](https://play.mcmod.cn/sv20185897.html)  
 [MCLists.cn](https://www.mclists.cn/server/5934.html)
