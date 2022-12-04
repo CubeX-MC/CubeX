@@ -23,6 +23,7 @@ Unofficial:
 -
 ![MinecraftListStatus](https://minecraftlist.com/servers/play.cubexmc.org/banner.jpg)  
  > 15分钟刷新一次 具体请看下方MinecraftList  
+
 [MinecraftList](https://minecraftlist.com/servers/play.cubexmc.org)  
-[找服玩](https://play.mcmod.cn/sv20185897.html)
+[找服玩](https://play.mcmod.cn/sv20185897.html)  
 [MCLists.cn](https://www.mclists.cn/server/5934.html)
