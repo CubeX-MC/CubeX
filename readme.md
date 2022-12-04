@@ -21,6 +21,6 @@ Unofficial:
   ##
 服务器状态(点击直接跳转)  
 -
-![MinecraftListStatus](https://jnq5ocjgw6.execute-api.us-east-1.amazonaws.com/production/https://minecraftlist.com/servers/play.cubexmc.org/banner.svg)  
+![MinecraftListStatus](https://minecraftlist.com/servers/play.cubexmc.org/banner.jpg)  
 [MinecraftList](https://minecraftlist.com/servers/play.cubexmc.org)  
 [找服玩](https://play.mcmod.cn/sv20185897.html)
