@@ -3,9 +3,9 @@
 由玩家共同创建和维护的纯净(养老)生存服务器
 -
   CubeX Operator 成员组:  
-~~angushushu~~  
+angushushu  
 ~~Tomeggo~~  
-Akkariin (AkariDream)  
+FallenCrystal_  
 XY-kuailexy (Shioeaxiki)  
 ~~Siyang~~  
 ~~linzaiua~~  
