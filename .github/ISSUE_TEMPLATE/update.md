@@ -1,5 +1,5 @@
 ---
-name: 变更
+name: 服务器变更
 about: 关于服务器机制或内容变更， 在此处打开一个issue.
 title: "[update] (简单描述变更内容)"
 labels: update, 服务器
