@@ -3,15 +3,17 @@
 由玩家共同创建和维护的纯净(养老)生存服务器
 -
   CubeX Operator 成员组:  
-angushushu  
+~~angushushu~~
 FallenCrystal_  
 Fire_God  
 Furiina  
+heckteck
 HotWind_  
 ~~linzaiua~~  
 Siyang  
 Tomeggo  
 XY-kuailexy (Shioeaxiki)
+00
   ##
 玩家社区
 -
